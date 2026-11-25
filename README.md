@@ -24,3 +24,8 @@ As projects are added, each should document its setup, usage, and validation com
 - Document a Git workflow you have tried and verified.
 
 Keep credentials, private data, and generated files out of commits.
+
+## Guides
+
+- [Everyday Git commands](docs/git-cheatsheet.md)
+- [Contributing](CONTRIBUTING.md)
