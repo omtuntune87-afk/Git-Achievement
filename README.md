@@ -28,4 +28,5 @@ Keep credentials, private data, and generated files out of commits.
 ## Guides
 
 - [Everyday Git commands](docs/git-cheatsheet.md)
+- [Practice a complete Git workflow locally](docs/practice-exercise.md)
 - [Contributing](CONTRIBUTING.md)
