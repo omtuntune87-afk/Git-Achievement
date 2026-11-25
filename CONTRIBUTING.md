@@ -2,6 +2,11 @@
 
 Choose a small improvement with a clear purpose. For larger features, open an issue first to agree on scope.
 
+Use the bug report template for reproducible problems or the improvement template
+for proposals. Pull requests include a template for the change's purpose,
+validation results, and review checklist. Complete the applicable sections and
+explain any checks you could not run. Never paste credentials or private data.
+
 ## Workflow
 
 1. Clone the repository, or fork it first if you do not have write access.
