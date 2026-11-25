@@ -1,5 +1,7 @@
 # Everyday Git commands
 
+For rejected pushes, conflicts, or mistakes, see the [troubleshooting guide](troubleshooting.md).
+
 Run these commands from inside your repository. Replace example branch names and paths with your own.
 
 ## Inspect your work
